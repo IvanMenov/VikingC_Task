@@ -7,9 +7,9 @@ Running the applications:
 
 ## Backend (TaskVikingC_backend)
 
-Update the application.json with the corresponding settings for the ftp server- host, port, user, password, FTP	directory to upload to and update the api keys for the REST services also.
+Update the application.properties with the corresponding settings for the ftp server- host, port, user, password, FTP	directory.
   
-For the Hotels, Weather, Covid stats I have already plugged in some api-keys that I subscribed with(free subscription), so you don't have to add those.
+Add the api keys for the Hotels, Weather, Covid stats REST services in application.properties as well.
 
 When starting the application in the common way, without passing any arguments, it will only allow for manual mode of interaction, through the browser.
  
