@@ -7,7 +7,7 @@ Running the applications:
 
 ## Backend (TaskVikingC_backend)
 
-Update the application.json with the corresponding settings for the ftp server- host, port, user, password, FTP 	directory to upload to.
+Update the application.json with the corresponding settings for the ftp server- host, port, user, password, FTP	directory to upload to and update the api keys for the REST services also.
   
 For the Hotels, Weather, Covid stats I have already plugged in some api-keys that I subscribed with(free subscription), so you don't have to add those.
 
